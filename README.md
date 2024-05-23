@@ -1,4 +1,4 @@
-# Reinforcement Learning Project README
+# Reinforcement Learning
 
 ## Overview
 This project implements various reinforcement learning algorithms to solve grid world and multi-armed bandit problems. It includes implementations of algorithms such as Value Iteration, Policy Iteration, Q-Learning, Epsilon-Greedy Policy, and the Upper Confidence Bound (UCB) Algorithm.
