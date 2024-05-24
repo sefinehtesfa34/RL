@@ -1,5 +1,5 @@
 # | NAME |  ID | Department |
-Sefineh Tesfa UGR/2844/12  AI 
+## Sefineh Tesfa UGR/2844/12  AI 
 
 # Reinforcement Learning
 
